@@ -13,6 +13,7 @@ SVG Generator is installed by cloning the repository down to your machine, and a
 Upon entering the node command, a prompt will appear asking you what shape you would like to select, upon selecting your shape, a second prompt will appear asking what color you'd like the shape to be, after this is answered, a third prompt will appear asking what text you'd like in your prompt.
 
 Walkthrough Video: https://youtu.be/CFB643VrhIA
+Testing Video: https://youtu.be/r-LlJSkrGvg
 
 ## Credits
 
@@ -30,3 +31,5 @@ Check shapes.test.js to see the test, which encompasses:
 - Color Generation
 - Shape Generation
 - Text Generation
+
+Video of Testing: https://youtu.be/r-LlJSkrGvg
