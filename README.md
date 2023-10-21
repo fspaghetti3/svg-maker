@@ -22,3 +22,11 @@ Various Stack Overflow Forums: https://stackoverflow.com/
 ## License
 
 No License Used
+
+## Tests
+
+Check shapes.test.js to see the test, which encompasses:
+
+- Color Generation
+- Shape Generation
+- Text Generation
